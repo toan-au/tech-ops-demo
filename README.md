@@ -8,7 +8,7 @@ This Tech demo shows the migration from Google Sheet to an Airtable table using:
 
 ## Usage
 
-* This demo assumes there the google service account json exists in the default location
+* This demo assumes that the google service account json exists in the default location
 * `~/.config/gspread/service_account.json`
 
 1. Install dependencies `pip i gspread pyairtable dotenv`
